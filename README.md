@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there im Riku 👋
 
-<!--
-**RizarOne/RizarOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Game Programmer Portfolio
+
+## Introduction
+- I am a student studying information and communication technology to become a game industry software developer.
+
+## Skills
+- Learning the ropes of C# and Unity for game development.
+
+## Projects
+- Currently developing OnionBoy in both 2D and 3D formats.
+
+## Experience
+- Seeking work experience opportunities to enhance coding skills.
+
+## Collaboration
+- Enjoy collaborating with others to create engaging games.
+
+## Learning
+- Open to feedback to improve coding abilities.
+
+## Goals
+- Desire to learn how to program games better.
+
+
+
+
+
+
+
