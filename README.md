@@ -3,7 +3,7 @@
 
 
 
-# Game Programmer Portfolio
+# Game coder student
 
 ## Introduction
 - I am a student studying information and communication technology to become a game industry software developer.
