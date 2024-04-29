@@ -7,9 +7,9 @@
 
 ## Current Projects
 (Previews)
-- OnionBoy2D https://rizarone.itch.io/onionboy2d-early
-- Project Rogue https://rizarone.itch.io/project-rogue
-- OnionBoy3D Preview currently in progress
+- OnionBoy2D https://rizarone.itch.io/onionboy2d-early (all the code was written by me)
+- Project Rogue https://rizarone.itch.io/project-rogue (all the code was written by me)
+- OnionBoy3D Preview currently in progress 
 
 ## Introduction
 - I am a student studying information and communication technology to become a game industry software developer.
