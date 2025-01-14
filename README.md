@@ -6,7 +6,7 @@
 # Game coder student
 
 ## Current Projects
-(Previews, all the code was written by me)
+(Previews)
 - OnionBoy2D https://rizarone.itch.io/onionboy2d-early 
 - Project Rogue https://rizarone.itch.io/project-rogue 
 - OnionBoy3D Preview currently in progress 
