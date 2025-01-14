@@ -12,7 +12,7 @@
 - OnionBoy3D Preview currently in progress 
 
 ## Introduction
-- I am a student studying information and communication technology to become a game industry software developer.
+- Student studying information and communication technology to become a game industry software developer.
 
 ## Skills
 - Learning the ropes of C# and Unity for game development.
