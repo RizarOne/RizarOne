@@ -18,7 +18,7 @@
 - Learning the ropes of C# and Unity for game development.
 
 ## Projects
-- Currently developing OnionBoy in both 2D and 3D formats (active)
+- Currently developing OnionBoy in both 2D and 3D formats (project in hold)
 - Developed early preview for Project Rogue (project in hold)
 
 ## Experience
